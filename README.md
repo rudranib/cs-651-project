@@ -1,4 +1,4 @@
-# cs651project
+# cs-651-project
 
 ## Analysis of Weather and Crime Data
 
